@@ -35,19 +35,20 @@
 - [ ] 7.  Check all seat belts for proper operation.
 - [ ] 8.  Check heated seat operation.
 - [ ] 9.  Check the rear seats for proper fold-down operation.
-- [ ] 10.  Try to lift the bottom of the back seat to ensure it is securely attached to its base.
-- [ ] 11.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-- [ ] 12.  Test the steering wheel position controls to ensure proper operation.
-- [ ] 13.  Press the center of the steering wheel to make sure the vehicle's horn works.
-- [ ] 14.  Test the heated steering wheel feature.
-- [ ] 15.  Test the windshield wipers.
-- [ ] 16.  Test the rearview camera.
-- [ ] 17.  Check side mirrors for proper operation of folding and position adjustment.
-- [ ] 18.  Check sun-visor operation and mirror condition.
-- [ ] 19.  Check the rearview mirror for any warping or distortion.
-- [ ] 20.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
-- [ ] 21.  Test connectivity of wireless phone charger.
-- [ ] 22.  Center console should not be shiny.
+- [ ] 10. Check interior heater. There have been many problems with the new heat pump models.
+- [ ] 11.  Try to lift the bottom of the back seat to ensure it is securely attached to its base.
+- [ ] 12.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
+- [ ] 13.  Test the steering wheel position controls to ensure proper operation.
+- [ ] 14.  Press the center of the steering wheel to make sure the vehicle's horn works.
+- [ ] 15.  Test the heated steering wheel feature. (All VIN numbers higher than 103k supposedly come with it.) (see icon of steering wheel with "heat" squiggly lines on "Seat Heaters" screen)
+- [ ] 16.  Test the windshield wipers.
+- [ ] 17.  Test the rearview camera.
+- [ ] 18.  Check side mirrors for proper operation of folding and position adjustment.
+- [ ] 19.  Check sun-visor operation and mirror condition.
+- [ ] 20.  Check the rearview mirror for any warping or distortion.
+- [ ] 21.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
+- [ ] 22.  Test connectivity of wireless phone charger.
+- [ ] 23.  Center console should not be shiny.
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
